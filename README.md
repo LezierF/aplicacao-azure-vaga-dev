@@ -95,10 +95,10 @@ Frontend:
   Desenvolvedor Full Stack & Azure Specialist
   [🔗 LinkedIn](https://www.linkedin.com/in/lezierf/) | [🌐 Portfólio](https://www.legendevs.com.br/)
 
-![image](https://github.com/user-attachments/assets/e375874f-6caf-44e2-a78b-1fdca6aee4a5)
-![image](https://github.com/user-attachments/assets/848e2778-0e28-406c-b605-cfefc3282065)
-![image](https://github.com/user-attachments/assets/86a4c6e9-3fba-4dee-8951-01b112a0356c)
-![image](https://github.com/user-attachments/assets/e3427ce6-30b6-4037-9694-5b670e4f21fa)
+![image](https://github.com/user-attachments/assets/f6eb7c49-d4e8-4a7d-aaa5-8bef8f03230a)
+![image](https://github.com/user-attachments/assets/39ff2f06-8601-4781-a259-8e472b656fe1)
+![image](https://github.com/user-attachments/assets/96d0169d-d039-4bcc-a895-94575102e2a4)
+
 
 
 
