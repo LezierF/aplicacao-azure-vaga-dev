@@ -1,0 +1,11 @@
+# Node.js / React
+node_modules/
+build/
+dist/
+
+# .NET build files
+bin/
+obj/
+
+# Visual Studio Code settings
+.vscode/
